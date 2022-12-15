@@ -1,4 +1,4 @@
-Hi :hi World, I'm Patience Paul 😉
+Hi :hand World, I'm Patience Paul 😉
 
 Frontend Software Engineer| Python Programmer
 
@@ -10,4 +10,4 @@ You can check out my projects at https://github.com/patience1000
 
 I know about Python,Vue.js,Bootstrap,Javascript,CSS & HTML. 
 
-Connect with me:
+Connect with me: 
