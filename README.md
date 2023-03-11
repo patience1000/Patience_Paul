@@ -1,6 +1,6 @@
 Hi World 👋, I'm Patience Paul 😉 
 
-Frontend Software Engineer| Python Programmer🐍
+Frontend Software Engineer | Python Programmer🐍
 
 I Love 💙 spending time solving problems with programming💻
 
